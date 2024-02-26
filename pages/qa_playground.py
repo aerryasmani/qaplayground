@@ -13,3 +13,4 @@ class QaPlayground:
     # Intercation Methods
     def load(self):
         self.browser.get(self.URL)
+
